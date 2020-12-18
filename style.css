@@ -1,0 +1,19 @@
+body{
+    height: 100%;
+    font-size: 1rem;
+    background-color: whitesmoke;
+}
+
+.gradient {
+    background: rgb(79,73,73);
+    background: radial-gradient(circle, rgba(79,73,73,1) 26%, rgba(79,73,73,1) 51%, rgba(0,0,0,1) 88%);
+}
+
+.page-header{
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
